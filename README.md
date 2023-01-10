@@ -83,24 +83,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- Features -->
 
-### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
-
-- **Displays a header to the screen**
-- **Display the Header in Orange**
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://github/derick1530/hello-microverse)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -127,30 +112,10 @@ Clone this repository to your desired folder:
   git clone git@github.com:derick1530/Hello-Microverse.git
 ```
 
-### Install
-
-You don't need to install this application
-
 ### Usage
 
 To run the project, open your Live server (VSCode extension) ,
 navigate to index.html, right click and select run with live server
-
-### Run tests
-
-Do run this command for test:
-
-```sh
-npm run test
-```
-
-### Deployment
-
-To deploy this project use :
-
-```sh
-npm build
-```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -168,14 +133,6 @@ npm build
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-Build Portfolio
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
