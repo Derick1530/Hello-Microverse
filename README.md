@@ -173,7 +173,7 @@ npm build
 
 > Describe 1 - 3 features you will add to the project.
 
-All features had been fully created
+Build Portfolio
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
