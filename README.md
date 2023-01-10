@@ -88,6 +88,7 @@ After you're finished please remove all the comments and instructions!
 > Describe between 1-3 key features of the application.
 
 - **Displays a header to the screen**
+- **Display the Header in Orange**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -113,13 +114,9 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+- A Code Editor
+- Install an Live server Extension in VSCode
+- Web Browser(Chrome,Safari,...)
 
 ### Setup
 
@@ -141,8 +138,11 @@ navigate to index.html, right click and select run with live server
 
 ### Run tests
 
-Do need to run any test for this project
---->
+Do run this command for test:
+
+```sh
+npm run test
+```
 
 ### Deployment
 
